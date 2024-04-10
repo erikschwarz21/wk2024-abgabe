@@ -1,0 +1,21 @@
+[{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+            "name" : "TU Dresden",
+            "Anzahl Studierende" : "29000",
+            "Link" : "https://tu-dresden.de/"
+        },
+        "geometry": {
+          "coordinates": [
+            13.726667,
+            51.028056
+          ],
+          "type": "Point"
+        }
+      }
+    ]
+  }
+]
